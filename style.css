@@ -1,0 +1,95 @@
+body { 
+	background-color: #ECE5F0
+	color: #575F7D;
+	font-family: Lora; 
+	font-size: 17px
+	font-weight: lighter;
+	margin: 0 20%;
+	background-color: rgb(240,240,240);
+}
+
+h1, h2, h3 { 
+font-family: 'Roboto', sans-serif
+}
+
+h1 { 
+	color: #575F7D;
+	font-family: Helvetica;
+	font-weight: 900;
+	letter-spacing: 10px;
+	font-size: 32px;
+	text-transform: uppercase;
+}
+
+h2	{ 
+	color: #7ECE90
+	font-size: 20px;
+	font-weight: lighter;
+	font-weight: 500px
+ }
+
+	
+a { 
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color: #6B72E1
+	font-weight: 600;
+	font-size: 16px
+}
+
+.div-presentation {
+	text-align: center;
+}
+
+.img-circle { 
+  border-radius: 90%;
+  width: 150px;
+  height: 150px;
+}
+
+.formationL {
+    border-radius: 4px;
+    display: flex; 
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 90vh;
+    padding-bottom: 20px;
+    margin: 20px auto;
+    box-shadow: 0px 0px 10px #bbb;
+    background-color: #fff;
+    }
+
+
+div {
+	border: solid 1px lightgrey;
+	padding: 10px;
+	background-color: white;
+}
+
+.div-presentation {
+	margin: 20px;
+	box-shadow: 20px
+}
+
+.div-formation { 
+	margin: 20px;
+}
+
+.div-formation1 { 
+	margin: 20px;
+}
+
+.formation2 {
+	margin: 20px;
+}
+.div-formation3 { 
+	margin: 20px;
+}
+
+.button {
+	background-color: lightgrey;
+	border-radius: 8px;
+	margin: 8px; 
+	padding: 8px; 
+	color: white;
+}
